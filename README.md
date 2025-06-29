@@ -36,6 +36,6 @@ Results of the model are shown in the 4 .png files.
 
 ## Things I would improve:
 
-- Including more variables (such as rate of change)
-- Incorporate external data (effects of supply-side shocks, earnings reports etc.)
-- Considered impact of competitor stocks as secondary inputs in price determination.
+- Inclusion of more variables (such as rate of change)
+- Incorporation of external data (effects of supply-side shocks, earnings reports etc.)
+- Consideration of impact of competitor stocks as secondary inputs in price determination.
