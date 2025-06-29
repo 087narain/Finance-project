@@ -2,7 +2,7 @@
 
 # Stock Price Prediction with LSTM
 
-This project uses an LSTM neural network to predict the next-day closing price of a stock based on historical data (Close, Volume, RSI). It's built in Python using PyTorch, yfinance, and matplotlib.
+This project uses an LSTM neural network to predict the next-day closing price of Nike (NKE) stock based on historical data (Close, Volume, RSI). It's built in Python using PyTorch, yfinance, and matplotlib.
 
 ## What It Does
 
@@ -28,4 +28,14 @@ Results of the model are shown in the 4 .png files.
 
 ## How to run:
 
-Type into terminal: jupyter notebook main.ipynb
+- Clone repo
+- Install dependencies  
+- Run in teminal: 
+    ```bash
+   jupyter notebook main.ipynb
+
+## Things I would improve:
+
+- Including more variables (such as rate of change)
+- Incorporate external data (effects of supply-side shocks, earnings reports etc.)
+- Considered impact of competitor stocks as secondary inputs in price determination.
