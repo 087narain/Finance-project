@@ -30,12 +30,13 @@ Results of the model are shown in the 4 .png files.
 
 - Clone repo
 - Install dependencies  
-- Run in teminal: 
+- Run in teminal:
+
     ```bash
    jupyter notebook main.ipynb
 
 ## Things I would improve:
 
-- Inclusion of more variables (such as rate of change)
-- Incorporation of external data (effects of supply-side shocks, earnings reports etc.)
-- Consideration of impact of competitor stocks as secondary inputs in price determination.
+- Including more variables (such as rate of change)
+- Incorporate external data (effects of supply-side shocks, earnings reports etc.)
+- Considered impact of competitor stocks as secondary inputs in price determination.
